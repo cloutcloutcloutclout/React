@@ -1,5 +1,46 @@
 # React + TypeScript + Vite
 
+Template desc below if you scroll,
+this is just a random repository for learning some react vite typescript stuff for now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## template description
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
